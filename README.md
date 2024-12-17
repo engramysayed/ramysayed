@@ -11,11 +11,4 @@
 - Email: engramisayed@gmail.com
 
 ---
-
-### 🚀 Featured Projects:
-1. [Project 1 Name](Project Link) - *Description of what it does.*
-2. [Project 2 Name](Project Link) - *Description of what it does.*
-
----
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=engramysayed&show_icons=true&theme=radical)
